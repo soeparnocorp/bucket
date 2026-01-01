@@ -11,7 +11,7 @@
 	"r2_buckets": [
 		{
 			"binding": "bucket",
-			"bucket_name": "bucket",
+			"bucket_name": "BUCKET",
 			"preview_bucket_name": "bucket"
 		}
 	],
