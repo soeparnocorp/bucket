@@ -11,8 +11,8 @@
 		"categories": [
 			"storage"
 		],
-		"preview_icon_url": "https://raw.githubusercontent.com/soeparnocorp/bucket/refs/heads/main/public/favicon.ico",
-		"preview_image_url": "https://raw.githubusercontent.com/soeparnocorp/bucket/refs/heads/main/public/favicon.ico",
+		"preview_icon_url": "https://soeparnocorp.pages.dev/assets/favicon.png",
+		"preview_image_url": "https://soeparnocorp.pages.dev/assets/favicon.png",
 		"publish": true
 	},
 	"dependencies": {
