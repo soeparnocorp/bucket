@@ -10,7 +10,7 @@
 	},
 	"r2_buckets": [
 		{
-			"binding": "BUCKET",
+			"binding": "R2",
 			"bucket_name": "bucket",
 			"preview_bucket_name": "a32108ad-eabe-4da4-ab02-a6df17b418cf"
 		}
