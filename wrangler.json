@@ -11,7 +11,7 @@
 	"r2_buckets": [
 		{
 			"binding": "R2",
-			"bucket_name": "bucket",
+			"bucket_name": "message-assets",
 			"preview_bucket_name": "a32108ad-eabe-4da4-ab02-a6df17b418cf"
 		}
 	],
