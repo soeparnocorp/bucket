@@ -1,8 +1,8 @@
 {
 	"name": "bucket",
-	"description": "A Google Drive Interface for your Cloudflare R2 Buckets!",
+	"description": "A R2 Interface for your Cloudflare R2 Buckets!",
 	"cloudflare": {
-		"label": "R2-Exploer App",
+		"label": "R2-Exploer",
 		"products": [
 			"R2",
 			"Access",
